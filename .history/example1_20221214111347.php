@@ -4,7 +4,7 @@
 <head>
 	<style>
 		h1 {
-			color: pink;
+			color: green;
 		}
 	</style>
 </head>
@@ -20,9 +20,9 @@
 		 
 			?>
 
-         <br><br>
-		<h1>second page tag start</h1>	
-		<?php
+				
+			<br><br>
+			<?php
 			echo 'Explore, learn and grow.'
 			?>
 		</h2>

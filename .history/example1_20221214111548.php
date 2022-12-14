@@ -4,7 +4,7 @@
 <head>
 	<style>
 		h1 {
-			color: pink;
+			color: green;
 		}
 	</style>
 </head>
